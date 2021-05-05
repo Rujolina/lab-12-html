@@ -1,0 +1,12 @@
+Split into three sections:
+ - music
+ - art
+ - photography
+
+
+ Music will be in rows with play buttons
+
+
+ the art section will be in gallery with caption underneath each photo
+
+ photography will be in gallery with caption underneath each photo

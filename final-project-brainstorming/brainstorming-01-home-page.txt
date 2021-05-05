@@ -1,0 +1,26 @@
+- Color Scheme I want to be black, grey and red.
+- roses depicting the style/vibe of the website
+- image of my self
+
+navigation bar going across with other pages
+
+[a brief statement introducing myself.]
+
+[slideshow/gallery of photos that represent me + image of myself]
+
+div 1 {
+I want a section listing any upcoming projects of mine (mostly music)
+}
+
+div 2 {
+Things I participated in,
+QCC WITNY, Global Citizenship Alliance, etc
+}
+div 3{
+certifications and skills i have
+}
+
+div 4 {
+I want a section showing off a bit of my personally/taste; what songs i'm listening to now
+shows/films i'm currently into
+}
